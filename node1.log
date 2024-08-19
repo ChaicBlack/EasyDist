@@ -1,0 +1,4 @@
+01:13:44 [INFO] Node 1 - Node1 is starting.
+01:13:44 [INFO] Node 1 - Node1 is doing something.
+01:13:44 [INFO] Failed to send message to 127.0.0.1:8082, Connection refused (os error 61)
+01:13:44 [INFO] Node 1 - Node1 is stopping.
